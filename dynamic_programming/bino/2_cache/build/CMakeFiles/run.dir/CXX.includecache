@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/irap/Documents/giseop/exercise/20181121 cpp 실습/dp/bino/cache/bino_cache.cpp
+iostream
+-
+string
+-
+chrono
+-
+cstdlib
+-
+ctime
+-
+array
+-
+
